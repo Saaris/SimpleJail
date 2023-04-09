@@ -1,0 +1,4 @@
+name: SimpleJail
+version: '${project.version}'
+main: io.github.saaris.simplejail.SimpleJail
+api-version: 1.19
